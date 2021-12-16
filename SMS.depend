@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639642763 source:c:\users\gayan muthukumara\onedrive\desktop\sms\sms\main.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+
